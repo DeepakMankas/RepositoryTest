@@ -1,0 +1,13 @@
+Feedback of assessment ( Date : 06/05/2022 )
+1) No Validations
+2) No required fields (Required marker on UI)
+3) Created a separated Home Page apart from specifications
+4) Created different servlets for each action.
+5) Repetitive code for JDBC connection instead can create a method and can call that.
+6) Wrong query used for login.(Fetching data from DB using Username only)
+7) Java standards missing.
+8) ALTRES standards missing.
+9) JDBC Connections were not closed.
+10) No error message shown if wrong username and password is entered.
+11) Lot of commented and unused code was present.
+12) If data is not present in database table, then it should show no data on listing page. Was showing column headers only.
